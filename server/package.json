@@ -1,0 +1,13 @@
+{
+  "name": "railgun-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "author": "femrawr",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
