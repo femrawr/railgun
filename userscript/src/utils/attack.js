@@ -1,1 +1,5 @@
-
+export default {
+    attack(data) {
+        
+    }
+};
